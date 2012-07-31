@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Chip8", "Chip8\Chip8.fsproj", "{813CF02E-A5FD-44D5-BBDF-4F0F831884BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{813CF02E-A5FD-44D5-BBDF-4F0F831884BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{813CF02E-A5FD-44D5-BBDF-4F0F831884BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{813CF02E-A5FD-44D5-BBDF-4F0F831884BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{813CF02E-A5FD-44D5-BBDF-4F0F831884BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
